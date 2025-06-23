@@ -1,0 +1,457 @@
+{
+    "industry_stock_info": {
+        "AAV": {
+            "industry_code": "real_estate_construction",
+            "industry_name": "Bất động sản và Xây dựng"
+        }
+    },
+    "data": {
+        "AAV": {
+            "ticker": "AAV",
+            "balance_sheet": {
+                "ticker": "AAV",
+                "table_name": "stx_fsc_balancesheet",
+                "table_description": "Bảng cân đối kế toán",
+                "year_report": 2024,
+                "length_report": 1,
+                "data": {
+                    "TÀI SẢN NGẮN HẠN": {
+                        "value": 434166311778,
+                        "field_code": "bsa1"
+                    },
+                    "tài sản tài chính, Tiền và tương đương tiền": {
+                        "value": 2509853895,
+                        "field_code": "bsa2"
+                    },
+                    "Tiền": {
+                        "value": 2509853895,
+                        "field_code": "bsa3"
+                    },
+                    "Giá trị thuần đầu tư ngắn hạn": {
+                        "value": 138000000000,
+                        "field_code": "bsa5"
+                    },
+                    "Đầu tư ngắn hạn": {
+                        "value": 138000000000,
+                        "field_code": "bsa6"
+                    },
+                    "tài sản tài chính, Các khoản phải thu": {
+                        "value": 284237878734,
+                        "field_code": "bsa8"
+                    },
+                    "Phải thu khách hàng": {
+                        "value": 2771003000,
+                        "field_code": "bsa9"
+                    },
+                    "Trả trước người bán": {
+                        "value": 144484774582,
+                        "field_code": "bsa10"
+                    },
+                    "Phải thu khác": {
+                        "value": 140080514152,
+                        "field_code": "bsa13"
+                    },
+                    "Dự phòng nợ khó đòi": {
+                        "value": -3098413000,
+                        "field_code": "bsa14"
+                    },
+                    "Tài sản lưu động khác": {
+                        "value": 9418579149,
+                        "field_code": "bsa18"
+                    },
+                    "Thuế VAT phải thu": {
+                        "value": 8607360960,
+                        "field_code": "bsa20"
+                    },
+                    "Phải thu thuế khác": {
+                        "value": 811218189,
+                        "field_code": "bsa21"
+                    },
+                    "TÀI SẢN DÀI HẠN": {
+                        "value": 455919790461,
+                        "field_code": "bsa23"
+                    },
+                    "Phải thu dài hạn": {
+                        "value": 4387437943,
+                        "field_code": "bsa24"
+                    },
+                    "Phải thu dài hạn khác": {
+                        "value": 4387437943,
+                        "field_code": "bsa27"
+                    },
+                    "Tài sản cố định": {
+                        "value": 13043724540,
+                        "field_code": "bsa29"
+                    },
+                    "GTCL TSCĐ hữu hình": {
+                        "value": 13006497702,
+                        "field_code": "bsa30"
+                    },
+                    "Nguyên giá TSCĐ hữu hình": {
+                        "value": 21951728511,
+                        "field_code": "bsa31"
+                    },
+                    "Khấu hao lũy kế TSCĐ hữu hình": {
+                        "value": -8945230809,
+                        "field_code": "bsa32"
+                    },
+                    "GTCL tài sản cố định vô hình": {
+                        "value": 37226838,
+                        "field_code": "bsa36"
+                    },
+                    "Nguyên giá TSCĐ vô hình": {
+                        "value": 122500000,
+                        "field_code": "bsa37"
+                    },
+                    "Khấu khao lũy kế TSCĐ vô hình": {
+                        "value": -85273162,
+                        "field_code": "bsa38"
+                    },
+                    "Giá trị ròng tài sản đầu tư": {
+                        "value": 4544430613,
+                        "field_code": "bsa40"
+                    },
+                    "Nguyên giá tài sản đầu tư": {
+                        "value": 6605445474,
+                        "field_code": "bsa41"
+                    },
+                    "Khấu hao lũy kế tài sản đầu tư": {
+                        "value": -2061014861,
+                        "field_code": "bsa42"
+                    },
+                    "Đầu tư dài hạn": {
+                        "value": 239696579416,
+                        "field_code": "bsa43"
+                    },
+                    "Đầu tư vào các công ty liên kết": {
+                        "value": 20000000000,
+                        "field_code": "bsa45"
+                    },
+                    "Đầu tư dài hạn khác": {
+                        "value": 225820000000,
+                        "field_code": "bsa46"
+                    },
+                    "Dự phòng giảm giá đầu tư dài hạn": {
+                        "value": -6123420584,
+                        "field_code": "bsa47"
+                    },
+                    "Tài sản dài hạn khác": {
+                        "value": 180863788,
+                        "field_code": "bsa49"
+                    },
+                    "Trả trước dài hạn": {
+                        "value": 180863788,
+                        "field_code": "bsa50"
+                    },
+                    "Tổng tài sản": {
+                        "value": 890086102239,
+                        "field_code": "bsa53"
+                    },
+                    "NỢ PHẢI TRẢ": {
+                        "value": 111357902498,
+                        "field_code": "bsa54"
+                    },
+                    "Nợ ngắn hạn": {
+                        "value": 72544599802,
+                        "field_code": "bsa55"
+                    },
+                    "Vay ngắn hạn": {
+                        "value": 71024582420,
+                        "field_code": "bsa56"
+                    },
+                    "Phải trả người bán": {
+                        "value": 165551099,
+                        "field_code": "bsa57"
+                    },
+                    "Người mua trả tiền trước": {
+                        "value": 152225581,
+                        "field_code": "bsa58"
+                    },
+                    "Thuế và các khoản phải trả Nhà nước": {
+                        "value": 1448100,
+                        "field_code": "bsa59"
+                    },
+                    "Phải trả người lao động": {
+                        "value": 144185150,
+                        "field_code": "bsa60"
+                    },
+                    "Chi phí phải trả": {
+                        "value": 31818452,
+                        "field_code": "bsa61"
+                    },
+                    "Phải trả khác": {
+                        "value": 1024789000,
+                        "field_code": "bsa64"
+                    },
+                    "Nợ dài hạn": {
+                        "value": 38813302696,
+                        "field_code": "bsa67"
+                    },
+                    "Phải trả dài hạn khác": {
+                        "value": 35024231619,
+                        "field_code": "bsa70"
+                    },
+                    "Thuế thu nhập hoãn lại phải trả": {
+                        "value": 3789071077,
+                        "field_code": "bsa72"
+                    },
+                    "VỐN CHỦ SỞ HỮU": {
+                        "value": 778728199741,
+                        "field_code": "bsa78"
+                    },
+                    "Vốn và các quỹ": {
+                        "value": 778728199741,
+                        "field_code": "bsa79"
+                    },
+                    "Vốn góp": {
+                        "value": 689876610000,
+                        "field_code": "bsa80"
+                    },
+                    "Thặng dư vốn cổ phần": {
+                        "value": 65711978000,
+                        "field_code": "bsa81"
+                    },
+                    "Lãi chưa phân phối, Lợi nhuận chưa phân phối": {
+                        "value": 23139611741,
+                        "field_code": "bsa90"
+                    },
+                    "TỔNG CỘNG NGUỒN VỐN": {
+                        "value": 890086102239,
+                        "field_code": "bsa96"
+                    },
+                    "Tài sản dở dang dài hạn": {
+                        "value": 194066754161,
+                        "field_code": "bsa163"
+                    },
+                    "Chi phí sản xuất, kinh doanh dở dang dài hạn": {
+                        "value": 194066754161,
+                        "field_code": "bsa164"
+                    },
+                    "Doanh thu chưa thực hiện ngắn hạn": {
+                        "value": 152225581,
+                        "field_code": "bsa167"
+                    },
+                    "Cổ phiếu phổ thông": {
+                        "value": 689876610000,
+                        "field_code": "bsa175"
+                    },
+                    "LNST chưa phân phối lũy kế đến cuối kỳ trước": {
+                        "value": 23905548631,
+                        "field_code": "bsa177"
+                    },
+                    "LNST chưa phân phối kỳ này": {
+                        "value": -765936890,
+                        "field_code": "bsa178"
+                    }
+                },
+                "summary": {
+                    "total_fields_with_data": 51,
+                    "report_info": {
+                        "start_date": "2024-01-01",
+                        "end_date": "2024-09-30",
+                        "is_audited": 0,
+                        "public_date": "2024-10-18"
+                    }
+                }
+            },
+            "income_statement": {
+                "ticker": "AAV",
+                "table_name": "stx_fsc_incomestatement",
+                "table_description": "Báo cáo kết quả kinh doanh",
+                "year_report": 2024,
+                "length_report": 1,
+                "data": {
+                    "Kiểm toán, chưa kiểm toán. 1: đã kiểm toán, 0: chưa kiểm toán": {
+                        "value": 0,
+                        "field_code": "isaudit"
+                    },
+                    "Doanh số, Doanh thu": {
+                        "value": 139387105,
+                        "field_code": "isa1"
+                    },
+                    "Doanh số thuần, Doanh thu thuần": {
+                        "value": 139387105,
+                        "field_code": "isa3"
+                    },
+                    "Giá vốn hàng bán": {
+                        "value": -107729199,
+                        "field_code": "isa4"
+                    },
+                    "Lãi gộp, lợi nhuận gộp": {
+                        "value": 31657906,
+                        "field_code": "isa5"
+                    },
+                    "Doanh thu hoạt động tài chính, thu nhập tài chính": {
+                        "value": 2600531870,
+                        "field_code": "isa6"
+                    },
+                    "Chi phí tài chính": {
+                        "value": -621083121,
+                        "field_code": "isa7"
+                    },
+                    "Chi phí quản lý doanh  nghiệp": {
+                        "value": -2712239086,
+                        "field_code": "isa10"
+                    },
+                    "Lãi/(lỗ) từ hoạt động kinh doanh": {
+                        "value": -701132431,
+                        "field_code": "isa11"
+                    },
+                    "Chi phí khác": {
+                        "value": -64804459,
+                        "field_code": "isa13"
+                    },
+                    "Thu nhập khác, ròng": {
+                        "value": -64804459,
+                        "field_code": "isa14"
+                    },
+                    "Lãi/(lỗ) ròng trước thuế, LNTT, Lợi nhuận ròng trước thuế": {
+                        "value": -765936890,
+                        "field_code": "isa16"
+                    },
+                    "Lãi/(lỗ) thuần sau thuế, Lợi nhuận sau thuế, Lợi nhuận ròng": {
+                        "value": -765936890,
+                        "field_code": "isa20"
+                    },
+                    "Cổ đông của Công ty mẹ": {
+                        "value": -765936890,
+                        "field_code": "isa22"
+                    }
+                },
+                "summary": {
+                    "total_fields_with_data": 14,
+                    "report_info": {
+                        "start_date": "2024-01-01",
+                        "end_date": "2024-09-30",
+                        "is_audited": 0,
+                        "public_date": "2024-10-18"
+                    }
+                }
+            },
+            "cash_flow_statement": {
+                "ticker": "AAV",
+                "table_name": "stx_fsc_cashflow",
+                "table_description": "Báo cáo lưu chuyển tiền tệ",
+                "year_report": 2024,
+                "length_report": 1,
+                "data": {
+                    "Lãi trước thuế": {
+                        "value": -765936890,
+                        "field_code": "cfa1"
+                    },
+                    "Khấu hao TSCĐ": {
+                        "value": 863034957,
+                        "field_code": "cfa2"
+                    },
+                    "Chi phí dự phòng": {
+                        "value": 246083121,
+                        "field_code": "cfa3"
+                    },
+                    "Lãi/(lỗ) từ hoạt động đầu tư": {
+                        "value": -2600531870,
+                        "field_code": "cfa6"
+                    },
+                    "Lãi/(lỗ) trước những thay đổi vốn lưu động": {
+                        "value": -2257350682,
+                        "field_code": "cfa9"
+                    },
+                    "(Tăng)/giảm các khoản phải thu": {
+                        "value": 201349903078,
+                        "field_code": "cfa10"
+                    },
+                    "(Tăng)/giảm hàng tồn kho": {
+                        "value": -40974090792,
+                        "field_code": "cfa11"
+                    },
+                    "Tăng/(giảm) các khoản phải trả": {
+                        "value": 932030183,
+                        "field_code": "cfa12"
+                    },
+                    "(Tăng)/giảm chi phí trả trước": {
+                        "value": 367820477,
+                        "field_code": "cfa13"
+                    },
+                    "Thuế thu nhập doanh nghiệp đã trả": {
+                        "value": -256386511,
+                        "field_code": "cfa15"
+                    },
+                    "Lưu chuyển tiền tệ ròng từ các hoạt động sản xuất kinh doanh": {
+                        "value": 159161925753,
+                        "field_code": "cfa18"
+                    },
+                    "Cổ tức và tiền lãi nhận được": {
+                        "value": 1282607307,
+                        "field_code": "cfa25"
+                    },
+                    "Lưu chuyển tiền tệ ròng từ hoạt động đầu tư": {
+                        "value": -156717392693,
+                        "field_code": "cfa26"
+                    },
+                    "Lưu chuyển tiền thuần trong kỳ": {
+                        "value": 2444533060,
+                        "field_code": "cfa35"
+                    },
+                    "Tiền và tương đương tiền đầu kỳ": {
+                        "value": 65320835,
+                        "field_code": "cfa36"
+                    },
+                    "Tiền và tương đương tiền cuối kỳ": {
+                        "value": 2509853895,
+                        "field_code": "cfa38"
+                    }
+                },
+                "summary": {
+                    "total_fields_with_data": 16,
+                    "report_info": {
+                        "start_date": "2024-01-01",
+                        "end_date": "2024-09-30",
+                        "is_audited": 0,
+                        "is_direct": 0,
+                        "public_date": "2024-10-18"
+                    }
+                }
+            }
+        }
+    },
+    "sector_data": {
+        "data": [
+            {
+                "industry_code": "real_estate_construction",
+                "Level": 2.0,
+                "icbname": "Bất động sản và Xây dựng",
+                "ICB Code": 8600.0,
+                "Trading Date": "2024-09-30",
+                "comgroupcode": "VNINDEX",
+                "P/E cơ bản (ngành)": null,
+                "P/E pha loãng": null,
+                "Hệ số Giá Cổ phiếu/Trị giá Sổ sách (P/B) (ngành": null,
+                "Hệ số Giá Cổ phiếu/Doanh số trên cổ phiếu (P/S)": null,
+                "ROE % (ngành)": null,
+                "ROCE % (ngành)": null,
+                "ROA % (ngành)": null,
+                "Operating ROA (ngành)": null,
+                "Preprovision ROA % (ngành)": null,
+                "Net Interest Margin (NIM)": null,
+                "NPLs/Loans Ratio (đổi tên thành NPL)": null,
+                "Tỷ suất lợi nhuận thuần %": null,
+                "PEG % (ngành)": null,
+                "PEG (ngành)": null,
+                "Vốn hóa thị trường (Marcap)": null,
+                "Giá trị doanh nghiệp (EV)": null,
+                "Giá trị Doanh nghiệp/EBITDA": null
+            }
+        ],
+        "description": "Bảng thống kê hiệu suất của các ngành",
+        "total_sectors": 1,
+        "filtered_by_industries": [
+            "real_estate_construction"
+        ],
+        "industry_stock_mapping": {
+            "AAV": {
+                "industry_code": "real_estate_construction",
+                "industry_name": "Bất động sản và Xây dựng"
+            }
+        },
+        "data_source": "stx_rto_ratioicbindustry"
+    }
+}
