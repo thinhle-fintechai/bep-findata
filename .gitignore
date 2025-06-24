@@ -1,4 +1,4 @@
-.env
+.env*
 .venv
 .DS_Store
 .vscode
@@ -7,4 +7,4 @@
 .coverage
 .coverage.*
 .coverage.*
-./output
+output/
