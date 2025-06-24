@@ -1,0 +1,1747 @@
+{
+    "industry_stock_info": {
+        "VNM": {
+            "industry_code": "food_beverage",
+            "industry_name": "Thực phẩm và Đồ uống"
+        }
+    },
+    "data": {
+        "VNM": {
+            "ticker": "VNM",
+            "balance_sheet": {
+                "ticker": "VNM",
+                "table_name": "stx_fsc_balancesheet",
+                "table_description": "Bảng cân đối kế toán",
+                "year_report": 2025,
+                "length_report": 1,
+                "data": {
+                    "TÀI SẢN NGẮN HẠN": {
+                        "value": 38407988421683,
+                        "field_code": "bsa1"
+                    },
+                    "tài sản tài chính, Tiền và tương đương tiền": {
+                        "value": 2538024316626,
+                        "field_code": "bsa2"
+                    },
+                    "Tiền": {
+                        "value": 1228704316626,
+                        "field_code": "bsa3"
+                    },
+                    "Các khoản tương đương tiền": {
+                        "value": 1309320000000,
+                        "field_code": "bsa4"
+                    },
+                    "Giá trị thuần đầu tư ngắn hạn": {
+                        "value": 23170818696485,
+                        "field_code": "bsa5"
+                    },
+                    "Đầu tư ngắn hạn": {
+                        "value": 1257556014,
+                        "field_code": "bsa6"
+                    },
+                    "Dự phòng đầu tư ngắn hạn": {
+                        "value": -927498172,
+                        "field_code": "bsa7"
+                    },
+                    "tài sản tài chính, Các khoản phải thu": {
+                        "value": 5469228387577,
+                        "field_code": "bsa8"
+                    },
+                    "Phải thu khách hàng": {
+                        "value": 4116404286198,
+                        "field_code": "bsa9"
+                    },
+                    "Trả trước người bán": {
+                        "value": 438005266850,
+                        "field_code": "bsa10"
+                    },
+                    "Phải thu khác": {
+                        "value": 935972965503,
+                        "field_code": "bsa13"
+                    },
+                    "Dự phòng nợ khó đòi": {
+                        "value": -21154130974,
+                        "field_code": "bsa14"
+                    },
+                    "Hàng tồn kho, ròng": {
+                        "value": 6979212103573,
+                        "field_code": "bsa15"
+                    },
+                    "Hàng tồn kho": {
+                        "value": 7015839015752,
+                        "field_code": "bsa16"
+                    },
+                    "Dự phòng giảm giá HTK": {
+                        "value": -36626912179,
+                        "field_code": "bsa17"
+                    },
+                    "Tài sản lưu động khác": {
+                        "value": 250704917422,
+                        "field_code": "bsa18"
+                    },
+                    "Trả trước ngắn hạn": {
+                        "value": 163774696564,
+                        "field_code": "bsa19"
+                    },
+                    "Thuế VAT phải thu": {
+                        "value": 65317978709,
+                        "field_code": "bsa20"
+                    },
+                    "Phải thu thuế khác": {
+                        "value": 21612242149,
+                        "field_code": "bsa21"
+                    },
+                    "TÀI SẢN DÀI HẠN": {
+                        "value": 16605801806083,
+                        "field_code": "bsa23"
+                    },
+                    "Phải thu dài hạn": {
+                        "value": 18364622300,
+                        "field_code": "bsa24"
+                    },
+                    "Phải thu khách hang dài hạn": {
+                        "value": 379452706,
+                        "field_code": "bsa25"
+                    },
+                    "Phải thu dài hạn khác": {
+                        "value": 17985169594,
+                        "field_code": "bsa27"
+                    },
+                    "Tài sản cố định": {
+                        "value": 12309661362750,
+                        "field_code": "bsa29"
+                    },
+                    "GTCL TSCĐ hữu hình": {
+                        "value": 11292624766798,
+                        "field_code": "bsa30"
+                    },
+                    "Nguyên giá TSCĐ hữu hình": {
+                        "value": 32930433694106,
+                        "field_code": "bsa31"
+                    },
+                    "Khấu hao lũy kế TSCĐ hữu hình": {
+                        "value": -21637808927308,
+                        "field_code": "bsa32"
+                    },
+                    "GTCL tài sản cố định vô hình": {
+                        "value": 1017036595952,
+                        "field_code": "bsa36"
+                    },
+                    "Nguyên giá TSCĐ vô hình": {
+                        "value": 1469196705924,
+                        "field_code": "bsa37"
+                    },
+                    "Khấu khao lũy kế TSCĐ vô hình": {
+                        "value": -452160109972,
+                        "field_code": "bsa38"
+                    },
+                    "Giá trị ròng tài sản đầu tư": {
+                        "value": 53123702862,
+                        "field_code": "bsa40"
+                    },
+                    "Nguyên giá tài sản đầu tư": {
+                        "value": 98822678885,
+                        "field_code": "bsa41"
+                    },
+                    "Khấu hao lũy kế tài sản đầu tư": {
+                        "value": -45698976023,
+                        "field_code": "bsa42"
+                    },
+                    "Đầu tư dài hạn": {
+                        "value": 709385535593,
+                        "field_code": "bsa43"
+                    },
+                    "Đầu tư vào các công ty liên kết": {
+                        "value": 638412747180,
+                        "field_code": "bsa45"
+                    },
+                    "Đầu tư dài hạn khác": {
+                        "value": 94555479081,
+                        "field_code": "bsa46"
+                    },
+                    "Dự phòng giảm giá đầu tư dài hạn": {
+                        "value": -23582690668,
+                        "field_code": "bsa47"
+                    },
+                    "Tài sản dài hạn khác": {
+                        "value": 1853359584072,
+                        "field_code": "bsa49"
+                    },
+                    "Trả trước dài hạn": {
+                        "value": 785471676757,
+                        "field_code": "bsa50"
+                    },
+                    "Thuế thu nhập hoãn lại phải thu": {
+                        "value": 52685591141,
+                        "field_code": "bsa51"
+                    },
+                    "Tổng tài sản": {
+                        "value": 55013790227766,
+                        "field_code": "bsa53"
+                    },
+                    "NỢ PHẢI TRẢ": {
+                        "value": 17391301675751,
+                        "field_code": "bsa54"
+                    },
+                    "Nợ ngắn hạn": {
+                        "value": 16981777958867,
+                        "field_code": "bsa55"
+                    },
+                    "Vay ngắn hạn": {
+                        "value": 10060066017395,
+                        "field_code": "bsa56"
+                    },
+                    "Phải trả người bán": {
+                        "value": 3916355255325,
+                        "field_code": "bsa57"
+                    },
+                    "Người mua trả tiền trước": {
+                        "value": 123043188304,
+                        "field_code": "bsa58"
+                    },
+                    "Thuế và các khoản phải trả Nhà nước": {
+                        "value": 418356794017,
+                        "field_code": "bsa59"
+                    },
+                    "Phải trả người lao động": {
+                        "value": 217416350607,
+                        "field_code": "bsa60"
+                    },
+                    "Chi phí phải trả": {
+                        "value": 1680684007050,
+                        "field_code": "bsa61"
+                    },
+                    "Phải trả khác": {
+                        "value": 123038432343,
+                        "field_code": "bsa64"
+                    },
+                    "Dự phòng các khoản phải trả ngắn hạn": {
+                        "value": 9998580158,
+                        "field_code": "bsa65"
+                    },
+                    "Quỹ khen thưởng, phúc lợi": {
+                        "value": 432665559117,
+                        "field_code": "bsa66"
+                    },
+                    "Nợ dài hạn": {
+                        "value": 409523716884,
+                        "field_code": "bsa67"
+                    },
+                    "Phải trả dài hạn khác": {
+                        "value": 711627552,
+                        "field_code": "bsa70"
+                    },
+                    "Vay dài hạn": {
+                        "value": 153956088000,
+                        "field_code": "bsa71"
+                    },
+                    "Thuế thu nhập hoãn lại phải trả": {
+                        "value": 254856001332,
+                        "field_code": "bsa72"
+                    },
+                    "VỐN CHỦ SỞ HỮU": {
+                        "value": 37622488552015,
+                        "field_code": "bsa78"
+                    },
+                    "Vốn và các quỹ": {
+                        "value": 37622488552015,
+                        "field_code": "bsa79"
+                    },
+                    "Vốn góp": {
+                        "value": 20899554450000,
+                        "field_code": "bsa80"
+                    },
+                    "Thặng dư vốn cổ phần": {
+                        "value": 34110709700,
+                        "field_code": "bsa81"
+                    },
+                    "Vốn khác": {
+                        "value": 746826728845,
+                        "field_code": "bsa82"
+                    },
+                    "Chênh lệch tỷ giá": {
+                        "value": 321288279533,
+                        "field_code": "bsa85"
+                    },
+                    "Quỹ đầu tư và phát triển": {
+                        "value": 7221110105727,
+                        "field_code": "bsa86"
+                    },
+                    "Lãi chưa phân phối, Lợi nhuận chưa phân phối": {
+                        "value": 4474317011269,
+                        "field_code": "bsa90"
+                    },
+                    "TỔNG CỘNG NGUỒN VỐN": {
+                        "value": 55013790227766,
+                        "field_code": "bsa96"
+                    },
+                    "Chứng khoán đầu tư giữ đến ngày đáo hạn": {
+                        "value": 23170488638643,
+                        "field_code": "bsb108"
+                    },
+                    "Tài sản dở dang dài hạn": {
+                        "value": 1661906998506,
+                        "field_code": "bsa163"
+                    },
+                    "Chi phí sản xuất, kinh doanh dở dang dài hạn": {
+                        "value": 360422150491,
+                        "field_code": "bsa164"
+                    },
+                    "Doanh thu chưa thực hiện ngắn hạn": {
+                        "value": 153774551,
+                        "field_code": "bsa167"
+                    },
+                    "Cổ phiếu phổ thông": {
+                        "value": 20899554450000,
+                        "field_code": "bsa175"
+                    },
+                    "LNST chưa phân phối lũy kế đến cuối kỳ trước": {
+                        "value": 3207047921023,
+                        "field_code": "bsa177"
+                    },
+                    "LNST chưa phân phối kỳ này": {
+                        "value": 1267269090246,
+                        "field_code": "bsa178"
+                    },
+                    "Xây dựng cơ bản dở dang": {
+                        "value": 1301484848015,
+                        "field_code": "bsa188"
+                    },
+                    "Lợi thế thương mại": {
+                        "value": 1015202316174,
+                        "field_code": "bsa209"
+                    },
+                    "Lợi ích cổ đông không kiểm soát": {
+                        "value": 3925281266941,
+                        "field_code": "bsa210"
+                    }
+                },
+                "summary": {
+                    "total_fields_with_data": 75,
+                    "report_info": {
+                        "start_date": "2025-01-01",
+                        "end_date": "None",
+                        "is_audited": 1,
+                        "public_date": "2025-04-29"
+                    }
+                }
+            },
+            "income_statement": {
+                "ticker": "VNM",
+                "table_name": "stx_fsc_incomestatement",
+                "table_description": "Báo cáo kết quả kinh doanh",
+                "year_report": 2025,
+                "length_report": "1",
+                "data": {
+                    "Kiểm toán, chưa kiểm toán. 1: đã kiểm toán, 0: chưa kiểm toán": {
+                        "value": 1,
+                        "field_code": "isaudit"
+                    },
+                    "Doanh số, Doanh thu": {
+                        "value": 12965404856436,
+                        "field_code": "isa1"
+                    },
+                    "Các khoản giảm trừ": {
+                        "value": -30899523580,
+                        "field_code": "isa2"
+                    },
+                    "Doanh số thuần, Doanh thu thuần": {
+                        "value": 12934505332856,
+                        "field_code": "isa3"
+                    },
+                    "Giá vốn hàng bán": {
+                        "value": -7724022892977,
+                        "field_code": "isa4"
+                    },
+                    "Lãi gộp, lợi nhuận gộp": {
+                        "value": 5210482439879,
+                        "field_code": "isa5"
+                    },
+                    "Doanh thu hoạt động tài chính, thu nhập tài chính": {
+                        "value": 366337215645,
+                        "field_code": "isa6"
+                    },
+                    "Chi phí tài chính": {
+                        "value": -41765368480,
+                        "field_code": "isa7"
+                    },
+                    "Chi phí tiền lãi": {
+                        "value": -75155207673,
+                        "field_code": "isa8"
+                    },
+                    "Chi phí bán hàng": {
+                        "value": -3169757183300,
+                        "field_code": "isa9"
+                    },
+                    "Chi phí quản lý doanh  nghiệp": {
+                        "value": -430929441463,
+                        "field_code": "isa10"
+                    },
+                    "Lãi/(lỗ) từ hoạt động kinh doanh": {
+                        "value": 1950556716681,
+                        "field_code": "isa11"
+                    },
+                    "Thu nhập khác": {
+                        "value": 48165047774,
+                        "field_code": "isa12"
+                    },
+                    "Chi phí khác": {
+                        "value": -47425568932,
+                        "field_code": "isa13"
+                    },
+                    "Thu nhập khác, ròng": {
+                        "value": 739478842,
+                        "field_code": "isa14"
+                    },
+                    "Lãi/(lỗ) ròng trước thuế, LNTT, Lợi nhuận ròng trước thuế": {
+                        "value": 1951296195523,
+                        "field_code": "isa16"
+                    },
+                    "Thuế thu nhập doanh nghiệp – hiện thời": {
+                        "value": -326819068821,
+                        "field_code": "isa17"
+                    },
+                    "Thuế thu nhập doanh nghiệp – hoãn lại": {
+                        "value": -37203858648,
+                        "field_code": "isa18"
+                    },
+                    "Chi phí thuế thu nhập doanh nghiệp": {
+                        "value": -364022927469,
+                        "field_code": "isa19"
+                    },
+                    "Lãi/(lỗ) thuần sau thuế, Lợi nhuận sau thuế, Lợi nhuận ròng": {
+                        "value": 1587273268054,
+                        "field_code": "isa20"
+                    },
+                    "Lợi ích của cổ đông thiểu số": {
+                        "value": 18791079953,
+                        "field_code": "isa21"
+                    },
+                    "Cổ đông của Công ty mẹ": {
+                        "value": 1568482188101,
+                        "field_code": "isa22"
+                    },
+                    "Lãi cơ bản trên cổ phiếu": {
+                        "value": 674,
+                        "field_code": "isa23"
+                    },
+                    "Lãi/(lỗ) từ công ty liên doanh": {
+                        "value": 16189054400,
+                        "field_code": "isa102"
+                    }
+                },
+                "summary": {
+                    "total_fields_with_data": 24,
+                    "report_info": {
+                        "start_date": "2025-01-01",
+                        "end_date": "2025-03-31",
+                        "is_audited": 1,
+                        "public_date": "2025-04-29"
+                    }
+                }
+            },
+            "cash_flow_statement": {
+                "ticker": "VNM",
+                "table_name": "stx_fsc_cashflow",
+                "table_description": "Báo cáo lưu chuyển tiền tệ",
+                "year_report": 2025,
+                "length_report": 1,
+                "data": {
+                    "Lãi trước thuế": {
+                        "value": 1951296195523,
+                        "field_code": "cfa1"
+                    },
+                    "Khấu hao TSCĐ": {
+                        "value": 511791212722,
+                        "field_code": "cfa2"
+                    },
+                    "Chi phí dự phòng": {
+                        "value": 2485756955,
+                        "field_code": "cfa3"
+                    },
+                    "Lãi/(lỗ) chênh lệch tỷ giá chưa thực hiện": {
+                        "value": 4698502109,
+                        "field_code": "cfa4"
+                    },
+                    "Lãi/(lỗ) từ hoạt động đầu tư": {
+                        "value": -343185308883,
+                        "field_code": "cfa6"
+                    },
+                    "Chi phí lãi vay": {
+                        "value": 75155207673,
+                        "field_code": "cfa7"
+                    },
+                    "Lãi/(lỗ) trước những thay đổi vốn lưu động": {
+                        "value": 2263061347306,
+                        "field_code": "cfa9"
+                    },
+                    "(Tăng)/giảm các khoản phải thu": {
+                        "value": 915922733863,
+                        "field_code": "cfa10"
+                    },
+                    "(Tăng)/giảm hàng tồn kho": {
+                        "value": -1409385906048,
+                        "field_code": "cfa11"
+                    },
+                    "Tăng/(giảm) các khoản phải trả": {
+                        "value": -429866370896,
+                        "field_code": "cfa12"
+                    },
+                    "(Tăng)/giảm chi phí trả trước": {
+                        "value": -61949344633,
+                        "field_code": "cfa13"
+                    },
+                    "Chi phí lãi vay đã trả": {
+                        "value": -58880104706,
+                        "field_code": "cfa14"
+                    },
+                    "Thuế thu nhập doanh nghiệp đã trả": {
+                        "value": -931863109189,
+                        "field_code": "cfa15"
+                    },
+                    "Tiền chi khác từ các hoạt động kinh doanh": {
+                        "value": -411754049754,
+                        "field_code": "cfa17"
+                    },
+                    "Lưu chuyển tiền tệ ròng từ các hoạt động sản xuất kinh doanh": {
+                        "value": -124714804057,
+                        "field_code": "cfa18"
+                    },
+                    "Tiền mua tài sản cố định và các tài sản dài hạn khác": {
+                        "value": -417018396950,
+                        "field_code": "cfa19"
+                    },
+                    "Tiền thu được từ thanh lý tài sản cố định": {
+                        "value": 25697543325,
+                        "field_code": "cfa20"
+                    },
+                    "Tiền thu từ cho vay hoặc thu từ phát hành công cụ nợ": {
+                        "value": 774829727404,
+                        "field_code": "cfa22"
+                    },
+                    "Tiền thu từ việc bán các khoản đầu tư vào các doanh nghiệp khác": {
+                        "value": 983316000,
+                        "field_code": "cfa24"
+                    },
+                    "Cổ tức và tiền lãi nhận được": {
+                        "value": 157981771666,
+                        "field_code": "cfa25"
+                    },
+                    "Lưu chuyển tiền tệ ròng từ hoạt động đầu tư": {
+                        "value": 542473961445,
+                        "field_code": "cfa26"
+                    },
+                    "Tiền thu được các khoản đi vay": {
+                        "value": 4902420919300,
+                        "field_code": "cfa29"
+                    },
+                    "Tiển trả các khoản đi vay": {
+                        "value": -3963677101750,
+                        "field_code": "cfa30"
+                    },
+                    "Cổ tức đã trả": {
+                        "value": -1044977722500,
+                        "field_code": "cfa32"
+                    },
+                    "Lưu chuyển tiền tệ từ hoạt động tài chính": {
+                        "value": -106233904950,
+                        "field_code": "cfa34"
+                    },
+                    "Lưu chuyển tiền thuần trong kỳ": {
+                        "value": 311525252438,
+                        "field_code": "cfa35"
+                    },
+                    "Tiền và tương đương tiền đầu kỳ": {
+                        "value": 2225943732075,
+                        "field_code": "cfa36"
+                    },
+                    "Ảnh hưởng của chênh lệch tỷ giá": {
+                        "value": 555332113,
+                        "field_code": "cfa37"
+                    },
+                    "Tiền và tương đương tiền cuối kỳ": {
+                        "value": 2538024316626,
+                        "field_code": "cfa38"
+                    },
+                    "Phân bổ lợi thế thương mại": {
+                        "value": 60819781207,
+                        "field_code": "cfa103"
+                    }
+                },
+                "summary": {
+                    "total_fields_with_data": 30,
+                    "report_info": {
+                        "start_date": "2025-01-01",
+                        "end_date": "2025-03-31",
+                        "is_audited": 1,
+                        "is_direct": "None",
+                        "public_date": "2025-04-29"
+                    }
+                }
+            },
+            "ratio_ttm": {
+                "ticker": "VNM",
+                "table_name": "stx_rto_ratiottm",
+                "table_description": "Các chỉ số tài chính TTM",
+                "year_report": 2025,
+                "length_report": 1,
+                "data": {
+                    "Tỷ suất thanh toán tiền mặt": {
+                        "value": 0.1495298006,
+                        "field_code": "rtq1"
+                    },
+                    "Tỷ suất thanh toán nhanh": {
+                        "value": 1.8507353231,
+                        "field_code": "rtq2"
+                    },
+                    "Tỷ suất thanh toán hiện thời": {
+                        "value": 2.2617177374,
+                        "field_code": "rtq3"
+                    },
+                    "Vốn vay dài hạn/Vốn CSH": {
+                        "value": 0.0040921293,
+                        "field_code": "rtq4"
+                    },
+                    "Vốn vay dài hạn/Tổng Tài sản": {
+                        "value": 0.0027984999,
+                        "field_code": "rtq5"
+                    },
+                    "Vốn vay ngắn dài hạn/Vốn CSH": {
+                        "value": 0.2714871477,
+                        "field_code": "rtq6"
+                    },
+                    "Vốn vay ngắn dài hạn/Tổng Tài sản": {
+                        "value": 0.1856629413,
+                        "field_code": "rtq7"
+                    },
+                    "Công nợ ngắn hạn/Vốn CSH": {
+                        "value": 0.4513730647,
+                        "field_code": "rtq8"
+                    },
+                    "Công nợ ngắn hạn/Tổng Tài sản": {
+                        "value": 0.3086822029,
+                        "field_code": "rtq9"
+                    },
+                    "Tổng công nợ/Vốn CSH": {
+                        "value": 0.4622581425,
+                        "field_code": "rtq10"
+                    },
+                    "Tổng công nợ/Tổng Tài sản": {
+                        "value": 0.3161262222,
+                        "field_code": "rtq11"
+                    },
+                    "ROE %": {
+                        "value": 0.2662589472,
+                        "field_code": "rtq12"
+                    },
+                    "ROCE %": {
+                        "value": 0.2574400355,
+                        "field_code": "rtq13"
+                    },
+                    "ROA %": {
+                        "value": 0.1579952611,
+                        "field_code": "rtq14"
+                    },
+                    "Hệ số quay vòng phải thu khách hàng": {
+                        "value": 13.052666983,
+                        "field_code": "rtq15"
+                    },
+                    "Thời gian trung bình thu tiền khách hàng": {
+                        "value": 27.9636338286,
+                        "field_code": "rtq16"
+                    },
+                    "Hệ số quay vòng HTK": {
+                        "value": 5.6193160926,
+                        "field_code": "rtq17"
+                    },
+                    "Thời gian trung bình xử lý HTK": {
+                        "value": 64.9545236437,
+                        "field_code": "rtq18"
+                    },
+                    "Hệ số quay vòng phải trả nhà cung cấp": {
+                        "value": 9.408875539,
+                        "field_code": "rtq19"
+                    },
+                    "Thời gian trung bình thanh toán cho nhà cung cấp": {
+                        "value": 38.7931584903,
+                        "field_code": "rtq20"
+                    },
+                    "Doanh số tính trên đầu người": {
+                        "value": 6084809592.8,
+                        "field_code": "rtq21"
+                    },
+                    "Lợi nhuận thuần tính trên đầu người": {
+                        "value": 886865751.85,
+                        "field_code": "rtq22"
+                    },
+                    "rtq23": {
+                        "value": 0.0018555002,
+                        "field_code": "rtq23"
+                    },
+                    "rtq24": {
+                        "value": 0.1153601111,
+                        "field_code": "rtq24"
+                    },
+                    "Tỷ suất lợi nhuận gộp %, Biên lợi nhuận gộp%": {
+                        "value": 0.4106799615,
+                        "field_code": "rtq25"
+                    },
+                    "Tỷ suất EBITDA %": {
+                        "value": 0.1929939855,
+                        "field_code": "rtq26"
+                    },
+                    "Tỷ suất EBIT %": {
+                        "value": 0.1583048168,
+                        "field_code": "rtq27"
+                    },
+                    "Tỷ suất lợi nhuận trước thuế %": {
+                        "value": 0.1789483143,
+                        "field_code": "rtq28"
+                    },
+                    "Tỷ suất lợi nhuận thuần %": {
+                        "value": 0.1457507812,
+                        "field_code": "rtq29"
+                    },
+                    "Tỷ lệ doanh số/vốn hóa (lần)": {
+                        "value": 0.5123336395,
+                        "field_code": "rtq30"
+                    },
+                    "Hệ số vòng quay tài sản (lần)": {
+                        "value": 1.0923019385,
+                        "field_code": "rtq31"
+                    },
+                    "Hệ số vòng quay vốn CSH (lần)": {
+                        "value": 1.6448710336,
+                        "field_code": "rtq32"
+                    },
+                    "Tỷ suất thuế TNDN thực tế (%)": {
+                        "value": -0.033197533,
+                        "field_code": "rtq33"
+                    },
+                    "Tốc độ tăng trưởng doanh số thuần": {
+                        "value": -0.0834659618,
+                        "field_code": "rtq78"
+                    },
+                    "Tốc độ tăng trưởng lãi gộp": {
+                        "value": -0.118588592,
+                        "field_code": "rtq79"
+                    },
+                    "Tốc độ tăng trưởng lãi trước thuế": {
+                        "value": -0.2788576169,
+                        "field_code": "rtq82"
+                    },
+                    "Tốc độ tăng trưởng lãi thuần": {
+                        "value": -0.285321093,
+                        "field_code": "rtq83"
+                    },
+                    "rtq40": {
+                        "value": 0.0936482029,
+                        "field_code": "rtq40"
+                    },
+                    "Tốc độ tăng trưởng tổng tài sản": {
+                        "value": 0.0650468294,
+                        "field_code": "rtq85"
+                    },
+                    "Tốc độ tăng trưởng Vốn CSH": {
+                        "value": 0.0489271202,
+                        "field_code": "rtq86"
+                    },
+                    "Tổng tài sản/Vốn Chủ sở hữu": {
+                        "value": 0.0267059714,
+                        "field_code": "rtq70"
+                    },
+                    "Tỷ trọng tài sản vô hình/Tổng Tài sản": {
+                        "value": 1.4622581425,
+                        "field_code": "rtq71"
+                    },
+                    "Ebit": {
+                        "value": 9594016494611,
+                        "field_code": "rtq72"
+                    },
+                    "Ebitda": {
+                        "value": 11696343274578,
+                        "field_code": "rtq73"
+                    },
+                    "Tỷ suất lãi hoạt động kinh doanh": {
+                        "value": 0.1786824559,
+                        "field_code": "rtq74"
+                    },
+                    "rtq75": {
+                        "value": 1.1540294005,
+                        "field_code": "rtq75"
+                    },
+                    "rtq76": {
+                        "value": 0.2005584513,
+                        "field_code": "rtq76"
+                    },
+                    "Khả năng chi trả lãi vay": {
+                        "value": 35.7739619949,
+                        "field_code": "rtq77"
+                    },
+                    "Tốc độ tăng trưởng EBITDA": {
+                        "value": 2.9988098736,
+                        "field_code": "rtq80"
+                    },
+                    "Tốc độ tăng trưởng EBIT": {
+                        "value": 2.9639258017,
+                        "field_code": "rtq81"
+                    },
+                    "rtq84": {
+                        "value": 0.1019048283,
+                        "field_code": "rtq84"
+                    },
+                    "Operating cycle": {
+                        "value": 100.2371030152,
+                        "field_code": "rtq88"
+                    },
+                    "Cash operating cycle": {
+                        "value": 139.0302615055,
+                        "field_code": "rtq89"
+                    },
+                    "Working capital turnover": {
+                        "value": -281.0620015576,
+                        "field_code": "rtq90"
+                    },
+                    "Fixed asset turnover": {
+                        "value": 4.9462935829,
+                        "field_code": "rtq91"
+                    },
+                    "Free cash flow/ revenue": {
+                        "value": 0.049942537,
+                        "field_code": "rtq92"
+                    },
+                    "Free cash flow/operating income": {
+                        "value": 0.2795044245,
+                        "field_code": "rtq93"
+                    },
+                    "Total debt/EBITDA": {
+                        "value": 0.7676409958,
+                        "field_code": "rtq94"
+                    },
+                    "Free cash flow/ debt": {
+                        "value": 0.3371076944,
+                        "field_code": "rtq95"
+                    },
+                    "Financial leverage": {
+                        "value": 0.4622581425,
+                        "field_code": "rtq96"
+                    },
+                    "Sales/Asset": {
+                        "value": 1.0923019385,
+                        "field_code": "rtq97"
+                    },
+                    "CPEX/sales": {
+                        "value": 0.0053173918,
+                        "field_code": "rtq98"
+                    },
+                    "Operating ROA": {
+                        "value": 0.2002991804,
+                        "field_code": "rtq99"
+                    },
+                    "EBITDA interest coverage": {
+                        "value": 33.4791826292,
+                        "field_code": "rtq101"
+                    },
+                    "Free operating cash flows to total debt": {
+                        "value": 0.9638118048,
+                        "field_code": "rtq102"
+                    },
+                    "Total debt to EBITDA": {
+                        "value": 0.7676409958,
+                        "field_code": "rtq103"
+                    },
+                    "Tốc độ tăng trưởng SPS": {
+                        "value": -0.0190653324,
+                        "field_code": "rtq104"
+                    },
+                    "Tốc độ tăng trưởng Interest expense": {
+                        "value": -0.0820880999,
+                        "field_code": "rtq105"
+                    },
+                    "Tốc độ tăng trưởng NPM": {
+                        "value": -0.285321093,
+                        "field_code": "rtq106"
+                    },
+                    "Tốc độ tăng trưởng Short-term borrowings": {
+                        "value": 0.5203750984,
+                        "field_code": "rtq109"
+                    },
+                    "Tốc độ tăng trưởng Long-term borrowings": {
+                        "value": -0.2731358861,
+                        "field_code": "rtq110"
+                    },
+                    "Net Current Asset": {
+                        "value": -7261750016656,
+                        "field_code": "rtq143"
+                    },
+                    "Tangible Book": {
+                        "value": 17515,
+                        "field_code": "rtq144"
+                    },
+                    "Doanh thu/Tổng tài sản": {
+                        "value": 0.2351138738,
+                        "field_code": "rtq148"
+                    },
+                    "% Doanh thu kế hoạch": {
+                        "value": 0.2005194223,
+                        "field_code": "rtq149"
+                    },
+                    "% LNTT kế hoạch": {
+                        "value": 0.1612374976,
+                        "field_code": "rtq150"
+                    },
+                    "% LNST kế hoạch": {
+                        "value": 0.1620332839,
+                        "field_code": "rtq151"
+                    },
+                    "rtq180": {
+                        "value": "nan",
+                        "field_code": "rtq180"
+                    },
+                    "rtq181": {
+                        "value": "nan",
+                        "field_code": "rtq181"
+                    }
+                },
+                "summary": {
+                    "total_fields_with_data": 79,
+                    "report_info": {
+                        "start_date": "None",
+                        "end_date": "None",
+                        "public_date": "None"
+                    }
+                }
+            },
+            "ratio_ttm_daily": {
+                "ticker": "VNM",
+                "table_name": "stx_rto_ratiottmdaily",
+                "table_description": "Các chỉ số tài chính TTM hàng ngày",
+                "year_report": "2025",
+                "length_report": "1",
+                "data": {
+                    "Số CP lưu hành bình quân hiện tại": {
+                        "value": "2089955445.0000000000",
+                        "field_code": "rtd1"
+                    },
+                    "Số CP luu hành bình quân trong kỳ": {
+                        "value": "2089955445.0000000000",
+                        "field_code": "rtd2"
+                    },
+                    "Số CP đang luu hành": {
+                        "value": "2089955445",
+                        "field_code": "rtd3"
+                    },
+                    "Số CP niêm yết": {
+                        "value": "2089955445",
+                        "field_code": "rtd4"
+                    },
+                    "Freeloat": {
+                        "value": "835982178",
+                        "field_code": "rtd5"
+                    },
+                    "Số cổ phiếu lưu hành hiện tại, Số CP lưu hành bình quân pha loãng": {
+                        "value": "2089955445.0000000000",
+                        "field_code": "rtd6"
+                    },
+                    "Giá trị sổ sách/một cổ phiếu (BV)": {
+                        "value": "16123.4094084116",
+                        "field_code": "rtd7"
+                    },
+                    "Doanh số/một cổ phiếu (S)": {
+                        "value": "28998.08",
+                        "field_code": "rtd8"
+                    },
+                    "Giá trị sổ sách hữu hình/một cổ phiếu (Tangible BV)": {
+                        "value": "17514.94",
+                        "field_code": "rtd9"
+                    },
+                    "Giá trị dòng tiền tạo ra/một cổ phiếu (CF)": {
+                        "value": "4140.60",
+                        "field_code": "rtd10"
+                    },
+                    "Vốn hóa thị trường (Marcap)": {
+                        "value": "118291478187000",
+                        "field_code": "rtd11"
+                    },
+                    "Giá trị doanh nghiệp (EV)": {
+                        "value": "129892757242710",
+                        "field_code": "rtd12"
+                    },
+                    "Dòng tiền nhàn rỗi (FCF)": {
+                        "value": "10257931331991",
+                        "field_code": "rtd13"
+                    },
+                    "EPS cơ bản": {
+                        "value": "4194.4078758823",
+                        "field_code": "rtd14"
+                    },
+                    "EPS pha loãng": {
+                        "value": "4194.4078758823",
+                        "field_code": "rtd15"
+                    },
+                    "EPS trước thu nhập khác": {
+                        "value": "4188.6258392199",
+                        "field_code": "rtd16"
+                    },
+                    "EPS cơ bản theo BCTC năm": {
+                        "value": "4022.0000000000",
+                        "field_code": "rtd17"
+                    },
+                    "EPS pha loãng theo BCTC năm": {
+                        "value": "0E-10",
+                        "field_code": "rtd18"
+                    },
+                    "Hệ số beta": {
+                        "value": "0.6545392912",
+                        "field_code": "rtd19"
+                    },
+                    "Tỷ suất cổ tức": {
+                        "value": "0E-10",
+                        "field_code": "rtd20"
+                    },
+                    "P/E cơ bản": {
+                        "value": "13.4941573817",
+                        "field_code": "rtd21"
+                    },
+                    "P/E pha loãng": {
+                        "value": "13.4941573817",
+                        "field_code": "rtd22"
+                    },
+                    "P/E trước thu nhập khác": {
+                        "value": "13.5127849019",
+                        "field_code": "rtd23"
+                    },
+                    "PEG %": {
+                        "value": "0E-10",
+                        "field_code": "rtd24"
+                    },
+                    "Hệ số Giá Cổ phiếu/Trị giá Sổ sách (P/B)": {
+                        "value": "3.5104237923",
+                        "field_code": "rtd25"
+                    },
+                    "Hệ số Giá Cổ phiếu/Doanh số trên cổ phiếu (P/S)": {
+                        "value": "1.9518530950",
+                        "field_code": "rtd26"
+                    },
+                    "Hệ số Giá/Trị giá Sổ sách TSHH (P/Tangible Book)": {
+                        "value": "3.2315262308",
+                        "field_code": "rtd27"
+                    },
+                    "Hệ số giá/Dòng tiền (P/Cash Flow)": {
+                        "value": "13.6695101431",
+                        "field_code": "rtd28"
+                    },
+                    "Giá trị Doanh nghiệp/Doanh số": {
+                        "value": "2.14",
+                        "field_code": "rtd29"
+                    },
+                    "Giá trị Doanh nghiệp/EBITDA": {
+                        "value": "11.1054159572",
+                        "field_code": "rtd30"
+                    },
+                    "Giá trị Doanh nghiệp/EBIT": {
+                        "value": "13.5389341175",
+                        "field_code": "rtd31"
+                    },
+                    "Kim ngành NĐTNN": {
+                        "value": "0.42",
+                        "field_code": "rtd32"
+                    },
+                    "GTGD so với TT": {
+                        "value": "0.011372782100",
+                        "field_code": "rtd33"
+                    },
+                    "GTGD so với vốn hóa": {
+                        "value": "0.0022360769",
+                        "field_code": "rtd34"
+                    },
+                    "Beta 2 năm": {
+                        "value": "0.5187133011",
+                        "field_code": "rtd35"
+                    },
+                    "DividendYield": {
+                        "value": "0.0409187279",
+                        "field_code": "rtd36"
+                    },
+                    "PEG": {
+                        "value": "13.4941573817",
+                        "field_code": "rtd37"
+                    },
+                    "P/DIV": {
+                        "value": "24.4386873921",
+                        "field_code": "rtd38"
+                    },
+                    "P/CFO": {
+                        "value": "13.6695101431",
+                        "field_code": "rtd39"
+                    },
+                    "P/FCFF": {
+                        "value": "11.5781958861",
+                        "field_code": "rtd40"
+                    },
+                    "P/FCFE": {
+                        "value": "0E-10",
+                        "field_code": "rtd41"
+                    },
+                    "EBITDA per share": {
+                        "value": "5596.4558012757",
+                        "field_code": "rtd42"
+                    },
+                    "Dividend per share": {
+                        "value": "0E-10",
+                        "field_code": "rtd43"
+                    },
+                    "Median P/S Value": {
+                        "value": "0E-10",
+                        "field_code": "rtd44"
+                    },
+                    "Graham Number": {
+                        "value": "39008.1209070124",
+                        "field_code": "rtd45"
+                    },
+                    "Peter Lynch Value": {
+                        "value": "0E-10",
+                        "field_code": "rtd46"
+                    },
+                    "Tương quan giá và thị trường": {
+                        "value": "0.5474866183",
+                        "field_code": "rtd47"
+                    },
+                    "Return giá chứng khoán trong 2 năm": {
+                        "value": "-0.0013977846",
+                        "field_code": "rtd48"
+                    },
+                    "Return thị trường trong vòng 2 năm": {
+                        "value": "0.0013164719",
+                        "field_code": "rtd49"
+                    },
+                    "Hệ số thanh toánh cổ tức": {
+                        "value": "0E-10",
+                        "field_code": "rtd50"
+                    },
+                    "Hệ số chi trả cổ tức": {
+                        "value": "0E-10",
+                        "field_code": "rtd51"
+                    },
+                    "Tốc độ tăng trưởng EPS so với cùng kỳ năm trước": {
+                        "value": "-0.0666699410",
+                        "field_code": "rtd52"
+                    },
+                    "EPS F": {
+                        "value": "4631.6776863155",
+                        "field_code": "rtd53"
+                    },
+                    "P/E F": {
+                        "value": "12.2201940276",
+                        "field_code": "rtd54"
+                    },
+                    "Tốc độ tăng trưởng EPS so với  kỳ trước đó": {
+                        "value": "0E-10",
+                        "field_code": "rtd55"
+                    }
+                },
+                "summary": {
+                    "total_fields_with_data": 55,
+                    "report_info": {
+                        "start_date": "None",
+                        "end_date": "None",
+                        "public_date": "None"
+                    }
+                }
+            },
+            "growth_metrics": {
+                "ticker": "VNM",
+                "table_name": "stx_rto_ratioyear",
+                "table_description": "Các chỉ số tăng trưởng theo năm",
+                "year_report": 2024,
+                "length_report": 5,
+                "trading_date": "2025-06-20T00:00:00",
+                "data": {
+                    "Tỷ suất thanh toán tiền mặt": {
+                        "value": 0.1206525856,
+                        "field_code": "ryq1",
+                        "is_key_growth_metric": false
+                    },
+                    "Tỷ suất thanh toán nhanh": {
+                        "value": 0.4583509412,
+                        "field_code": "ryq2",
+                        "is_key_growth_metric": false
+                    },
+                    "Tỷ suất thanh toán hiện thời": {
+                        "value": 2.0343755129,
+                        "field_code": "ryq3",
+                        "is_key_growth_metric": false
+                    },
+                    "Vốn vay dài hạn/Vốn CSH": {
+                        "value": 0.0043650728,
+                        "field_code": "ryq4",
+                        "is_key_growth_metric": false
+                    },
+                    "Vốn vay dài hạn/Tổng Tài sản": {
+                        "value": 0.0028684213,
+                        "field_code": "ryq5",
+                        "is_key_growth_metric": false
+                    },
+                    "Vốn vay ngắn dài hạn/Vốn CSH": {
+                        "value": 0.2563508527,
+                        "field_code": "ryq6",
+                        "is_key_growth_metric": false
+                    },
+                    "Vốn vay ngắn dài hạn/Tổng Tài sản": {
+                        "value": 0.1684558964,
+                        "field_code": "ryq7",
+                        "is_key_growth_metric": false
+                    },
+                    "Công nợ ngắn hạn/Vốn CSH": {
+                        "value": 0.5102930634,
+                        "field_code": "ryq8",
+                        "is_key_growth_metric": false
+                    },
+                    "Công nợ ngắn hạn/Tổng Tài sản": {
+                        "value": 0.3353290015,
+                        "field_code": "ryq9",
+                        "is_key_growth_metric": false
+                    },
+                    "Tổng công nợ/Vốn CSH": {
+                        "value": 0.5217683564,
+                        "field_code": "ryq10",
+                        "is_key_growth_metric": false
+                    },
+                    "Tổng công nợ/Tổng Tài sản": {
+                        "value": 0.3428697635,
+                        "field_code": "ryq11",
+                        "is_key_growth_metric": false
+                    },
+                    "ROE %": {
+                        "value": 0.2936214847,
+                        "field_code": "ryq12",
+                        "is_key_growth_metric": false
+                    },
+                    "ROCE %": {
+                        "value": 0.2885176761,
+                        "field_code": "ryq13",
+                        "is_key_growth_metric": false
+                    },
+                    "ROA %": {
+                        "value": 0.1743798413,
+                        "field_code": "ryq14",
+                        "is_key_growth_metric": false
+                    },
+                    "Hệ số quay vòng phải thu khách hàng": {
+                        "value": 12.868545117,
+                        "field_code": "ryq15",
+                        "is_key_growth_metric": false
+                    },
+                    "Thời gian trung bình thu tiền khách hàng": {
+                        "value": 28.3637347253,
+                        "field_code": "ryq16",
+                        "is_key_growth_metric": false
+                    },
+                    "Hệ số quay vòng HTK": {
+                        "value": 6.087945536,
+                        "field_code": "ryq17",
+                        "is_key_growth_metric": false
+                    },
+                    "Thời gian trung bình xử lý HTK": {
+                        "value": 59.9545442453,
+                        "field_code": "ryq18",
+                        "is_key_growth_metric": false
+                    },
+                    "Hệ số quay vòng phải trả nhà cung cấp": {
+                        "value": 9.4251744472,
+                        "field_code": "ryq19",
+                        "is_key_growth_metric": false
+                    },
+                    "Thời gian trung bình thanh toán cho nhà cung cấp": {
+                        "value": 38.7260736706,
+                        "field_code": "ryq20",
+                        "is_key_growth_metric": false
+                    },
+                    "Doanh số tính trên đầu người": {
+                        "value": 6203073245.83,
+                        "field_code": "ryq21",
+                        "is_key_growth_metric": false
+                    },
+                    "Lợi nhuận thuần tính trên đầu người": {
+                        "value": 949085641.56,
+                        "field_code": "ryq22",
+                        "is_key_growth_metric": false
+                    },
+                    "ryq23": {
+                        "value": -0.0047525863,
+                        "field_code": "ryq23",
+                        "is_key_growth_metric": false
+                    },
+                    "ryq24": {
+                        "value": 0.1030290283,
+                        "field_code": "ryq24",
+                        "is_key_growth_metric": false
+                    },
+                    "Tỷ suất lợi nhuận gộp %": {
+                        "value": 0.4141970778,
+                        "field_code": "ryq25",
+                        "is_key_growth_metric": false
+                    },
+                    "Tỷ suất EBITDA %": {
+                        "value": 0.2023176494,
+                        "field_code": "ryq26",
+                        "is_key_growth_metric": false
+                    },
+                    "Tỷ suất EBIT %": {
+                        "value": 0.168405847,
+                        "field_code": "ryq27",
+                        "is_key_growth_metric": false
+                    },
+                    "Tỷ suất lợi nhuận trước thuế %": {
+                        "value": 0.187749495,
+                        "field_code": "ryq28",
+                        "is_key_growth_metric": false
+                    },
+                    "Tỷ suất lợi nhuận thuần %": {
+                        "value": 0.1530024883,
+                        "field_code": "ryq29",
+                        "is_key_growth_metric": false
+                    },
+                    "Tỷ lệ doanh số/vốn hóa (lần)": {
+                        "value": 0.5222912967,
+                        "field_code": "ryq30",
+                        "is_key_growth_metric": false
+                    },
+                    "Hệ số vòng quay tài sản (lần)": {
+                        "value": 1.1470704479,
+                        "field_code": "ryq31",
+                        "is_key_growth_metric": false
+                    },
+                    "Hệ số vòng quay vốn CSH (lần)": {
+                        "value": 1.9314418764,
+                        "field_code": "ryq32",
+                        "is_key_growth_metric": false
+                    },
+                    "Tỷ suất thuế TNDN thực tế (%)": {
+                        "value": -0.0347470068,
+                        "field_code": "ryq33",
+                        "is_key_growth_metric": false
+                    },
+                    "Tốc độ tăng trưởng doanh số thuần": {
+                        "value": 0.0234175818,
+                        "field_code": "ryq34",
+                        "is_key_growth_metric": true
+                    },
+                    "Tốc độ tăng trưởng lãi gộp": {
+                        "value": 0.0425934463,
+                        "field_code": "ryq35",
+                        "is_key_growth_metric": true
+                    },
+                    "Tốc độ tăng trưởng EBITDA": {
+                        "value": 0.0570039353,
+                        "field_code": "ryq36",
+                        "is_key_growth_metric": true
+                    },
+                    "Tốc độ tăng trưởng EBIT": {
+                        "value": 0.0648379957,
+                        "field_code": "ryq37",
+                        "is_key_growth_metric": true
+                    },
+                    "Tốc độ tăng trưởng lãi trước thuế": {
+                        "value": 0.057600305,
+                        "field_code": "ryq38",
+                        "is_key_growth_metric": true
+                    },
+                    "Tốc độ tăng trưởng lãi thuần": {
+                        "value": 0.0584301217,
+                        "field_code": "ryq39",
+                        "is_key_growth_metric": false
+                    },
+                    "Tốc độ tăng trưởng tổng tài sản": {
+                        "value": 0.0451023047,
+                        "field_code": "ryq41",
+                        "is_key_growth_metric": false
+                    },
+                    "Tốc độ tăng trưởng Vốn CSH": {
+                        "value": 0.0327947087,
+                        "field_code": "ryq42",
+                        "is_key_growth_metric": false
+                    },
+                    "CAR - Tier 1 (not used)": {
+                        "value": 0.00887861,
+                        "field_code": "ryq52",
+                        "is_key_growth_metric": false
+                    },
+                    "CAR - Tier 2 (not used)": {
+                        "value": -0.04025272,
+                        "field_code": "ryq53",
+                        "is_key_growth_metric": false
+                    },
+                    "ryq70": {
+                        "value": 0.0325314802,
+                        "field_code": "ryq70",
+                        "is_key_growth_metric": false
+                    },
+                    "ryq71": {
+                        "value": 1.5217683564,
+                        "field_code": "ryq71",
+                        "is_key_growth_metric": false
+                    },
+                    "Ebit": {
+                        "value": 10404552687331,
+                        "field_code": "ryq72",
+                        "is_key_growth_metric": false
+                    },
+                    "Ebitda": {
+                        "value": 12499712332272,
+                        "field_code": "ryq73",
+                        "is_key_growth_metric": false
+                    },
+                    "Tỷ suất lãi hoạt động kinh doanh": {
+                        "value": 0.1876576229,
+                        "field_code": "ryq74",
+                        "is_key_growth_metric": false
+                    },
+                    "ryq75": {
+                        "value": 1.3304841981,
+                        "field_code": "ryq75",
+                        "is_key_growth_metric": false
+                    },
+                    "ryq76": {
+                        "value": 0.2289344259,
+                        "field_code": "ryq76",
+                        "is_key_growth_metric": false
+                    },
+                    "Khả năng chi trả lãi vay": {
+                        "value": 37.2356411302,
+                        "field_code": "ryq77",
+                        "is_key_growth_metric": false
+                    },
+                    "Operating cycle": {
+                        "value": 97.2786995316,
+                        "field_code": "ryq88",
+                        "is_key_growth_metric": false
+                    },
+                    "Cash operating cycle": {
+                        "value": 136.0047732022,
+                        "field_code": "ryq89",
+                        "is_key_growth_metric": false
+                    },
+                    "Working capital turnover": {
+                        "value": 339.5994953583,
+                        "field_code": "ryq90",
+                        "is_key_growth_metric": false
+                    },
+                    "Fixed asset turnover": {
+                        "value": 4.8955687739,
+                        "field_code": "ryq91",
+                        "is_key_growth_metric": false
+                    },
+                    "Free cash flow/ revenue": {
+                        "value": 0.0420375618,
+                        "field_code": "ryq92",
+                        "is_key_growth_metric": false
+                    },
+                    "Free cash flow/operating income": {
+                        "value": 0.224012013,
+                        "field_code": "ryq93",
+                        "is_key_growth_metric": false
+                    },
+                    "Total debt/EBITDA": {
+                        "value": 0.7418841941,
+                        "field_code": "ryq94",
+                        "is_key_growth_metric": false
+                    },
+                    "Free cash flow/ debt": {
+                        "value": 0.2929783338,
+                        "field_code": "ryq95",
+                        "is_key_growth_metric": false
+                    },
+                    "Financial leverage": {
+                        "value": 0.5217683564,
+                        "field_code": "ryq96",
+                        "is_key_growth_metric": false
+                    },
+                    "Sales/Asset": {
+                        "value": 1.1470704479,
+                        "field_code": "ryq97",
+                        "is_key_growth_metric": false
+                    },
+                    "CPEX/sales": {
+                        "value": 0.0057242311,
+                        "field_code": "ryq98",
+                        "is_key_growth_metric": false
+                    },
+                    "Operating ROA": {
+                        "value": 0.2205497594,
+                        "field_code": "ryq99",
+                        "is_key_growth_metric": false
+                    },
+                    "Retention rate b": {
+                        "value": -2348077588.0625,
+                        "field_code": "ryq100",
+                        "is_key_growth_metric": false
+                    },
+                    "EBITDA interest coverage": {
+                        "value": 31.725150026,
+                        "field_code": "ryq101",
+                        "is_key_growth_metric": false
+                    },
+                    "Free operating cash flows to total debt": {
+                        "value": 1.0926307075,
+                        "field_code": "ryq102",
+                        "is_key_growth_metric": false
+                    },
+                    "Total debt to EBITDA": {
+                        "value": 0.7418841941,
+                        "field_code": "ryq103",
+                        "is_key_growth_metric": false
+                    },
+                    "Tốc độ tăng trưởng SPS": {
+                        "value": 0.0234175818,
+                        "field_code": "ryq104",
+                        "is_key_growth_metric": false
+                    },
+                    "Tốc độ tăng trưởng Interest expense": {
+                        "value": 0.022238782,
+                        "field_code": "ryq105",
+                        "is_key_growth_metric": false
+                    },
+                    "Tốc độ tăng trưởng NPM": {
+                        "value": 0.0584301217,
+                        "field_code": "ryq106",
+                        "is_key_growth_metric": false
+                    },
+                    "Tốc độ tăng trưởng Accounts receivable": {
+                        "value": -0.0258594617,
+                        "field_code": "ryq107",
+                        "is_key_growth_metric": false
+                    },
+                    "Tốc độ tăng trưởngNet Inventories": {
+                        "value": -0.0811300469,
+                        "field_code": "ryq108",
+                        "is_key_growth_metric": false
+                    },
+                    "Tốc độ tăng trưởng Short-term borrowings": {
+                        "value": 0.1092363666,
+                        "field_code": "ryq109",
+                        "is_key_growth_metric": false
+                    },
+                    "Tốc độ tăng trưởng Long-term borrowings": {
+                        "value": -0.3378627057,
+                        "field_code": "ryq110",
+                        "is_key_growth_metric": false
+                    },
+                    "TS sinh lời/TTS": {
+                        "value": -0.0193332929,
+                        "field_code": "ryq115",
+                        "is_key_growth_metric": false
+                    },
+                    "Net Current Asset": {
+                        "value": -9129975935318,
+                        "field_code": "ryq143",
+                        "is_key_growth_metric": false
+                    },
+                    "Tangible Book": {
+                        "value": 16816,
+                        "field_code": "ryq144",
+                        "is_key_growth_metric": false
+                    },
+                    "Intrinsic Value (DCF)": {
+                        "value": 6.1140892222,
+                        "field_code": "ryq145",
+                        "is_key_growth_metric": false
+                    },
+                    "Doanh thu/Tổng tài sản": {
+                        "value": 1.1223190333,
+                        "field_code": "ryq148",
+                        "is_key_growth_metric": false
+                    },
+                    "% Doanh thu kế hoạch": {
+                        "value": 0.9781455841,
+                        "field_code": "ryq149",
+                        "is_key_growth_metric": false
+                    },
+                    "% LNTT kế hoạch": {
+                        "value": 1.0072641318,
+                        "field_code": "ryq150",
+                        "is_key_growth_metric": false
+                    },
+                    "% LNST kế hoạch": {
+                        "value": 1.0017395858,
+                        "field_code": "ryq151",
+                        "is_key_growth_metric": false
+                    },
+                    "Tăng trưởng Doanh thu thuần 3 năm - CARG": {
+                        "value": 0.0151165377,
+                        "field_code": "ryq160",
+                        "is_key_growth_metric": true
+                    },
+                    "Tăng trưởng Doanh thu thuần 5 năm - CARG": {
+                        "value": 0.00887861,
+                        "field_code": "ryq161",
+                        "is_key_growth_metric": true
+                    },
+                    "Tăng trưởng LN gộp 3 năm - CARG": {
+                        "value": 0.0348153059,
+                        "field_code": "ryq162",
+                        "is_key_growth_metric": true
+                    },
+                    "Tăng trưởng LN gộp 5 năm - CARG": {
+                        "value": -0.0193332929,
+                        "field_code": "ryq163",
+                        "is_key_growth_metric": true
+                    },
+                    "Tăng trưởng LNTT 3 năm - CARG": {
+                        "value": 0.0512844213,
+                        "field_code": "ryq164",
+                        "is_key_growth_metric": false
+                    },
+                    "Tăng trưởng LNTT 5 năm - CARG": {
+                        "value": -0.03754853,
+                        "field_code": "ryq165",
+                        "is_key_growth_metric": false
+                    },
+                    "Tăng trưởng LN ròng 3 năm - CARG": {
+                        "value": 0.0501897782,
+                        "field_code": "ryq166",
+                        "is_key_growth_metric": false
+                    },
+                    "Tăng trưởng LN ròng 5 năm - CARG": {
+                        "value": -0.0408804056,
+                        "field_code": "ryq167",
+                        "is_key_growth_metric": false
+                    },
+                    "Tăng trưởng EBIT 5 năm - CARG": {
+                        "value": -0.04025272,
+                        "field_code": "ryq169",
+                        "is_key_growth_metric": false
+                    },
+                    "Tăng trưởng EBITDA 5 năm - CARG": {
+                        "value": -0.0340641113,
+                        "field_code": "ryq171",
+                        "is_key_growth_metric": false
+                    },
+                    "Tăng trưởng Tổng Tài sản 3 năm - CARG": {
+                        "value": 0.0655693529,
+                        "field_code": "ryq172",
+                        "is_key_growth_metric": false
+                    },
+                    "Tăng trưởng Tổng Tài sản 5 năm - CARG": {
+                        "value": 0.0325314802,
+                        "field_code": "ryq173",
+                        "is_key_growth_metric": false
+                    },
+                    "Tăng trưởng VCSH 3 năm - CARG": {
+                        "value": 0.049915709,
+                        "field_code": "ryq174",
+                        "is_key_growth_metric": false
+                    },
+                    "Tăng trưởng VCSH 5 năm - CARG": {
+                        "value": 0.0182709666,
+                        "field_code": "ryq175",
+                        "is_key_growth_metric": false
+                    },
+                    "Tăng trưởng Chi phí đầu tư tài sản cố đinh (CAPEX) 3 năm - CARG": {
+                        "value": 0.0933141945,
+                        "field_code": "ryq178",
+                        "is_key_growth_metric": false
+                    },
+                    "Tăng trưởng Chi phí đầu tư tài sản cố đinh (CAPEX) 5 năm - CARG": {
+                        "value": 0.0456166575,
+                        "field_code": "ryq179",
+                        "is_key_growth_metric": false
+                    },
+                    "ryq180": {
+                        "value": "nan",
+                        "field_code": "ryq180",
+                        "is_key_growth_metric": false
+                    },
+                    "ryq181": {
+                        "value": "nan",
+                        "field_code": "ryq181",
+                        "is_key_growth_metric": false
+                    }
+                },
+                "summary": {
+                    "total_fields_with_data": 100,
+                    "key_growth_metrics_count": 9,
+                    "report_info": {
+                        "trading_date": "2025-06-20T00:00:00",
+                        "ttm_type": "None",
+                        "create_date": "2025-06-20T18:49:13"
+                    }
+                }
+            },
+            "errors": [],
+            "summary": {
+                "has_balance_sheet": true,
+                "has_income_statement": true,
+                "has_cash_flow_statement": true,
+                "has_ratio_ttm": true,
+                "has_ratio_ttm_daily": true,
+                "has_growth_metrics": true,
+                "total_errors": 0,
+                "data_completeness": {
+                    "balance_sheet_fields": 75,
+                    "income_statement_fields": 24,
+                    "cash_flow_statement_fields": 30,
+                    "ratio_ttm_fields": 79,
+                    "ratio_ttm_daily_fields": 55,
+                    "growth_metrics_fields": 100
+                }
+            }
+        }
+    },
+    "summary": {
+        "total_stocks_processed": 1,
+        "successful_stocks": 1,
+        "stocks_with_errors": 0,
+        "processing_timestamp": "2025-06-22T22:13:24.785637",
+        "data_sources": [
+            "stx_fsc_balancesheet",
+            "stx_fsc_incomestatement",
+            "stx_fsc_cashflow",
+            "stx_rto_ratiottm",
+            "stx_rto_ratiottmdaily",
+            "stx_rto_ratioicbindustry",
+            "stx_rto_ratioyear"
+        ]
+    },
+    "sector_data": {
+        "data": [
+            {
+                "industry_code": "food_beverage",
+                "Level": 2.0,
+                "icbname": "Thực phẩm và đồ uống",
+                "ICB Code": 3500.0,
+                "Trading Date": "2025-06-20",
+                "comgroupcode": "VNINDEX",
+                "P/E cơ bản (ngành)": 17.34433,
+                "P/E pha loãng": 17.33943,
+                "Hệ số Giá Cổ phiếu/Trị giá Sổ sách (P/B) (ngành": 2.34606,
+                "Hệ số Giá Cổ phiếu/Doanh số trên cổ phiếu (P/S)": 1.58223,
+                "ROE % (ngành)": 0.15613,
+                "ROCE % (ngành)": 0.1551,
+                "ROA % (ngành)": 0.08704,
+                "Operating ROA (ngành)": 0.13217,
+                "Preprovision ROA % (ngành)": 0.0,
+                "Net Interest Margin (NIM)": 0.0,
+                "NPLs/Loans Ratio (đổi tên thành NPL)": 0.0,
+                "Tỷ suất lợi nhuận thuần %": 0.10209,
+                "PEG % (ngành)": 0.0,
+                "PEG (ngành)": 51.90919,
+                "Vốn hóa thị trường (Marcap)": 405130210137140,
+                "Giá trị doanh nghiệp (EV)": 552664651003570,
+                "Giá trị Doanh nghiệp/EBITDA": 16.23914
+            }
+        ],
+        "description": "Bảng thống kê hiệu suất của các ngành",
+        "total_sectors": 1,
+        "filtered_by_industries": [
+            "food_beverage"
+        ],
+        "industry_stock_mapping": {
+            "VNM": {
+                "industry_code": "food_beverage",
+                "industry_name": "Thực phẩm và Đồ uống"
+            }
+        },
+        "data_source": "stx_rto_ratioicbindustry"
+    }
+}
